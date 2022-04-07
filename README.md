@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamup1
+- 👋 Hi, I’m Shubham Upadhyaya
 - 👀 I’m interested in Office 365, Microsoft Teams, Azure
 - 🌱 I’m currently learning Azure and Exchange Online
 - 💞️ I’m looking to collaborate on PowerShell scripting
